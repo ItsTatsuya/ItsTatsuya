@@ -2,7 +2,9 @@
 <h3 align="center">Welcome to My Profile</h3>
 <img src = "https://github-readme-stats.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itstatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10"
+<pre>
 
+</pre>
 
 <h3 align="left">My Socials</h3>
 <p align="left">
