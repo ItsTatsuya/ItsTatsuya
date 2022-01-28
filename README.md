@@ -1,8 +1,1 @@
-Hi :)
-Welcome to my Github Profile..
-
-Currently learning CSS
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ItsTatsuya)
-
-
+https://github-readme-stats.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
