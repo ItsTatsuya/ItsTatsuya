@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/ItsTatsuya/ItsTatsuya/blob/main/assets/banner.png)
 <h1></h1>
-<img src = "https://github-readme-stats.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000&border_radius=10">
+<img src = "https://github-readme-stats.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000&border_radius=10&custom_title="Profile Stats"&count_private=true>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itstatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10"
 <pre>
 
