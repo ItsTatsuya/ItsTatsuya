@@ -16,6 +16,3 @@
 
 
 ![Tatsuya Graph](https://activity-graph.herokuapp.com/graph?username=ItsTatsuya&&hide_title=true&&bg_color=000000&&line=f7f9f7&&point=f7f9f7&&color=f7f9f7)
-
-
-<a href="https://discord.com/users/427729150569218049"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/427729150569218049?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
