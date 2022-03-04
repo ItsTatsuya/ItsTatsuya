@@ -12,6 +12,7 @@
 </p>
 
 <h1>Discord</h1>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/427729150569218049?theme=dark&bg=000000&idleMessage=Probably%20Watching%20twitch)](https://discord.com/users/427729150569218049)
           
 ![Tatsuya Graph](https://activity-graph.herokuapp.com/graph?username=ItsTatsuya&&hide_title=true&&bg_color=000000&&line=f7f9f7&&point=f7f9f7&&color=f7f9f7)
