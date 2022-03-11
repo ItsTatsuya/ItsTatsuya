@@ -11,7 +11,7 @@
 <a href="https://twitter.com/itstatsuya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itstatsuya" height="30" width="40" /></a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1psdm75zdw2apyj2pys9uscgx&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1psdm75zdw2apyj2pys9uscgx&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/427729150569218049?theme=dark&bg=000000&idleMessage=Probably%20Watching%20twitch)](https://discord.com/users/427729150569218049)
           
