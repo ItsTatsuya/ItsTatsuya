@@ -1,4 +1,5 @@
 <img src= "https://github.com/ItsTatsuya/ItsTatsuya/blob/main/assets/Banner.png">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=FFFFFF&center=true&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000&border_radius=10&custom_title=Profile Stats&count_private=true">
