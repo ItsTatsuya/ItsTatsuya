@@ -27,3 +27,5 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=ffffff&color=000000&style=for-the-badge)
 ![Adobe After Effects Badge](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=ffffff&color=000000&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=ffffff&color=000000&style=for-the-badge)
+![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=ffffff&color=000000&style=for-the-badge)
+![OBS Studio Badge](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=ffffff&color=000000&style=for-the-badge)
