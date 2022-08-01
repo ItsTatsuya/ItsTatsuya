@@ -1,6 +1,6 @@
 <!--Banner-->
 <div align = "center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waveing&color=black&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <!--Text-->
 <img src = "https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&color=F7F7F7&center=true&vCenter=true&height=70&lines=Hello+There!;Welcome+to+my+Profile"/>
