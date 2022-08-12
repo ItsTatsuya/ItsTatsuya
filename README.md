@@ -8,6 +8,8 @@
 
 <img width=520vw align=top src = "https://github-readme-stats-itstatsuya.vercel.app/api?username=itstatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000&border_radius=10&count_private=true&border_color=0000"/>
 
+<img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&custom_title=My Stats&show_icons=true&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12&role=OWNER,COLLABORATOR"/>
+
 <!--Stats-->
 <!--<img width=520vw align=top src = "https://github-readme-stats.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000&border_radius=10&custom_title=Profile Stats&count_private=true&border_color=0000" />-->
 
