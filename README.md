@@ -16,7 +16,7 @@
 <img width=450vw align=top src = "https://lanyard.cnrad.dev/api/427729150569218049?theme=dark&bg=000000"/>
 
 <!--Top Languages-->
-<img  width= 330 align=top src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itstatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10&border_color=0000"/> 
+<img  width= 330 align=top src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10&border_color=0000"/> 
 
 ## Socials
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=ffffff&color=000000&style=for-the-badge)](https://discord.com/users/427729150569218049)
