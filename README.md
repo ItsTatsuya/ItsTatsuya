@@ -45,6 +45,7 @@
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=ffffff&color=000000&style=for-the-badge)](https://www.twitch.tv/its_tatsuya)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=ffffff&color=000000&style=for-the-badge)](https://www.youtube.com/channel/UCJjiIOsGtoDHzPvovYAT3XQ)
 [![Spotify](https://img.shields.io/badge/SPOTIFY-black?style=for-the-badge&logo=spotify&logoColor=white&color=black)](https://open.spotify.com/user/1psdm75zdw2apyj2pys9uscgx?si=9b80885224a0445e)
+[![Last.fm](https://img.shields.io/badge/Last.fm-black?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=black)](https://last.fm/user/ItsTatsuya)
 
 ## Programs
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=ffffff&color=000000&style=for-the-badge)
@@ -55,3 +56,5 @@
 ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=ffffff&color=000000&style=for-the-badge)
 ![OBS Studio Badge](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=ffffff&color=000000&style=for-the-badge)
 ![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white&color=black)
+
+
