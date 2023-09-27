@@ -27,6 +27,7 @@
 ![CPP](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=black)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=black)
 ![Java](https://img.shields.io/badge/JAva-black?style=for-the-badge&logo=openjdk&logoColor=white&color=black)
+![Mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white&color=black)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass&logoColor=white&color=black)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&color=black)
@@ -37,6 +38,9 @@
 ![Boot Strap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=black)
 ![Rust](https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=rust&logoColor=white&color=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20css-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=black)
+![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/godot%20engine-black?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ## Socials
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=ffffff&color=000000&style=for-the-badge)](https://discord.com/users/427729150569218049)
