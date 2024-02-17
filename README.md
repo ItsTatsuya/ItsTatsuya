@@ -12,12 +12,16 @@
 <!--Streak Stats-->
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=ItsTatsuya&theme=graywhite&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&border=0000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 
+**Work in Progress**
 <!--Discord Lanyard-->
 <!-- <img width=450vw align=top src = "https://lanyard.cnrad.dev/api/427729150569218049?theme=dark&bg=000000"/> -->
 
-<!--Top Languages-->
-<img  width= 330 align=top src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ItsTatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10&border_color=0000"/> 
 
+<!--Top Languages
+<img  width= 330 align=top src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ItsTatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10&border_color=0000"/> 
+-->
+
+<!---
 ## Operating Systems
 ![Windows Badge](https://img.shields.io/badge/WINDOWS-FFFFFF?style=for-the-badge&logo=windows&logoColor=white&color=black)
 ![Ubuntu Badge](https://img.shields.io/badge/UBUNTU-black?style=for-the-badge&logo=ubuntu&logoColor=white&color=black)
@@ -42,14 +46,14 @@
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot%20engine-black?style=for-the-badge&logo=godotengine&logoColor=white)
 
-<!--## Socials
+## Socials
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=ffffff&color=000000&style=for-the-badge)](https://discord.com/users/427729150569218049)
 [![Twitter Badge](https://img.shields.io/badge/X%20(twitter)-black?style=for-the-badge&logo=x&logoColor=white&color=black)](https://twitter.com/ItsTatsuya)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=ffffff&color=000000&style=for-the-badge)](https://www.reddit.com/user/Its_Tatsuya)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=ffffff&color=000000&style=for-the-badge)](https://www.twitch.tv/its_tatsuya)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=ffffff&color=000000&style=for-the-badge)](https://www.youtube.com/channel/UCJjiIOsGtoDHzPvovYAT3XQ)
 [![Spotify](https://img.shields.io/badge/SPOTIFY-black?style=for-the-badge&logo=spotify&logoColor=white&color=black)](https://open.spotify.com/user/1psdm75zdw2apyj2pys9uscgx?si=9b80885224a0445e)
-[![Last.fm](https://img.shields.io/badge/Last.fm-black?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=black)](https://last.fm/user/ItsTatsuya) -->
+[![Last.fm](https://img.shields.io/badge/Last.fm-black?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=black)](https://last.fm/user/ItsTatsuya)
 
 ## Programs
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=ffffff&color=000000&style=for-the-badge)
@@ -60,5 +64,4 @@
 ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=ffffff&color=000000&style=for-the-badge)
 ![OBS Studio Badge](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=ffffff&color=000000&style=for-the-badge)
 ![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white&color=black)
-
-
+-->
