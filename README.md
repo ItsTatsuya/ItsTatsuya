@@ -6,10 +6,10 @@
 </div>
 
 <!--Stats-->
-<img width=520vw align=top src = "http://github-readme-stats-livid-six.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000&border_radius=10&count_private=true&border_color=0000"/>
+<img width=520vw align=top src = "https://tatsuya-stats.vercel.app/api?username=ItsTatsuya&&show_icons=true&title_color=f7f9f7&icon_color=ffffff&text_color=f7f9f7&bg_color=000000&border_radius=10&count_private=true&border_color=0000"/>
 
 <!--Streak Stats-->
-<img src = "https://github-readme-streak-stats-eight.vercel.app?user=ItsTatsuya&theme=graywhite&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&border=0000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+<img src = "https://streak-stats.demolab.com/?user=ItsTatsuya&theme=graywhite&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFFFFF&border=0000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 
 <!--Top Languages-->
-<img  width= 330 align=top src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ItsTatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10&border_color=0000"/>
+<img  width= 330 align=top src = "https://tatsuya-stats.vercel.app/api/top-langs/?username=ItsTatsuya&title_color=f7f9f7&text_color=f7f9f7&bg_color=000000&icon_color=ffffff&border_radius=10&border_color=0000"/>
